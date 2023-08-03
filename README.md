@@ -8,9 +8,9 @@
 
 # 使用法（詳細な設定など）
 
-<img src="https://github.com/akita11/StepperDriverUnit/blob/main/StepperDriverU_front.jpg" width="240px">
+<img src="https://github.com/akita11/StepperDriverUnit/blob/main/StepperDriverU_front.png" width="240px">
 
-<img src="https://github.com/akita11/StepperDriverUnit/blob/main/StepperDriverU_back.jpg" width="240px">
+<img src="https://github.com/akita11/StepperDriverUnit/blob/main/StepperDriverU_back.png" width="240px">
 
 # Author
 
