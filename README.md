@@ -25,6 +25,7 @@ Grove端子のピン配置（基板裏面にシルク表記あり）： STP/DIR/
 - J3の2本をショートすると、ドライバICの内部状態をリセットします。
 - CN2にもこの2本の信号線が引き出してあり、Grove端子をとりつけてマイコン等から制御することができます。このGrove端子のピン配置（基板裏面にシルク表記あり）： nEN/nRST/+5V/GND （nEN=0でドライバICがON、=1でOFF。nRST=0でドライバICをリセット、=1で通常動作）
 
+<img src="https://github.com/akita11/StepperDriverUnit/blob/main/StepperDriverU_appendix.jpg" width="240px">
 
 ## 駆動方法の設定
 
